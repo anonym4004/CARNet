@@ -1,0 +1,12 @@
+einops==0.8.1
+matplotlib==3.10.7
+numpy==2.3.3
+pandas==2.3.3
+reformer-pytorch==1.4.4
+scikit-learn==1.7.2
+scipy==1.16.2
+sympy==1.14.0
+torch==2.10.0.dev20251021+cu128
+torchaudio==2.10.0.dev20251018+cu128
+torchvision==0.25.0.dev20251021+cu128
+tqdm==4.67.1
