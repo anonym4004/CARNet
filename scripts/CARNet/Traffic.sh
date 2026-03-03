@@ -1,6 +1,6 @@
 
 model_name=carnet
-root_path_name=C:/Users/Awsftausif/Desktop/S-Mamba_datasets/traffic/
+root_path_name=./dataset/
 data_path_name=traffic.csv
 model_id_name=traffic
 data_name=custom

@@ -1,6 +1,6 @@
 
 model_name=carnet
-root_path_name=C:/Users/Awsftausif/Desktop/S-Mamba_datasets/Solar/
+root_path_name=./dataset/
 data_path_name=solar_AL.txt
 model_id_name=Solar
 data_name=Solar

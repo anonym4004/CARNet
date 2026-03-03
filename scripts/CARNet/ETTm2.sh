@@ -1,6 +1,6 @@
 
 model_name=carnet
-root_path_name=C:/Users/Awsftausif/Desktop/S-Mamba_datasets/ETT-small//
+root_path_name=./dataset/
 data_path_name=ETTm2.csv
 model_id_name=ETTm2
 data_name=ETTm2

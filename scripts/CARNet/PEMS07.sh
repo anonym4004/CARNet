@@ -1,6 +1,6 @@
 
 model_name=carnet
-root_path_name=C:/Users/Awsftausif/Desktop/S-Mamba_datasets/PEMS/
+root_path_name=./dataset/
 data_path_name=PEMS07.npz
 model_id_name=PEMS07
 data_name=PEMS

@@ -1,6 +1,6 @@
 
 model_name=cSofts
-root_path_name=C:/Users/Awsftausif/Desktop/S-Mamba_datasets/weather/
+root_path_name=./dataset/
 data_path_name=weather.csv
 model_id_name=weather
 data_name=custom
