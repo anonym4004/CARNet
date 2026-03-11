@@ -1,5 +1,5 @@
 
-model_name=cSofts
+model_name=carnet
 root_path_name=./dataset/
 data_path_name=electricity.csv
 model_id_name=electricity
