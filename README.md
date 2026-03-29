@@ -1,6 +1,6 @@
 # CARNet
 
-CARNet is an attention-free framework for multivariate time series forecasting that models cross-variate dependencies together with recurrent cycle information. It integrates cycle-conditioned core aggregation and redistribution to efficiently capture global periodic patterns while maintaining scalable computation.
+CARNet is an attention-free model for multivariate time series forecasting that captures cross-variate dependencies and global periodic patterns efficiently. It integrates cycle-conditioned aggregation with Multihead Core Aggregation to deliver strong performance while maintaining linear-complexity modeling.
 
 ## Installation
 
