@@ -17,3 +17,13 @@ First, install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+``` 
+
+
+## Reproducing Experiments
+
+After installing the dependencies, you can reproduce an experiment by running:
+
+```bash
+bash ./scripts/CARNet/ECL.sh
+```
