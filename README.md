@@ -7,7 +7,7 @@ CARNet is an attention-free model for multivariate time series forecasting that 
 
 Due to file size limitations, the datasets are hosted externally and can be downloaded from the link below:
 
-[Download datasets](https://drive.google.com/drive/folders/1_iLs9_T4RmZMYa0q8Eqy5fSP1l1X5D9Z)
+[Download datasets](https://drive.google.com/file/d/1wB5nBVVndopl3ti3_QMUXkQisvE5G3eL/view?usp=sharing)
 
 After downloading, place the files in the dataset directory expected by the experiment scripts.
 
